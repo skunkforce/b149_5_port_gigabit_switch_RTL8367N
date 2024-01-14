@@ -1,4 +1,4 @@
-# edgy_board number b123
+# edgy_board number b149
 This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). It provides the functionality of chip XXXX via interfaces YYYY. 
 
 ![](/board/board.png)
