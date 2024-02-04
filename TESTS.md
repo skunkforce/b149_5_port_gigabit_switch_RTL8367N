@@ -1,12 +1,7 @@
-# test 1
+# communication test
 ## setup
-Describe your test setup
-## results
-Describe your results
+c003 --> b149 --> 2x b086
 
-
-# test 2
-## setup
-Describe your test setup
+One b086 is connected to the internet, and one is connected to a laptop. 
 ## results
-Describe your results
+Communication with the internet was possible.
